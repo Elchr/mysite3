@@ -15,4 +15,6 @@ main{
 .social{
     border: 1px solid blueviolet;
 }
-
+.link-text{
+    text-decoration: none;
+}
